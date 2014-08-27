@@ -1,9 +1,8 @@
-SublimText2-Settings
-====================
+#SublimText2-Settings
 
 My personal Sublim Text 2 settings
 
-#Preferences.sublime-settings
+##Preferences.sublime-settings
 
 {
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
@@ -20,7 +19,7 @@ My personal Sublim Text 2 settings
 	"word_wrap": true
 }
 
-#Pakages
+##Pakages
 
 - Theme : https://github.com/jamiewilson/predawn
 - CSS3 Syntax : https://github.com/i-akhmadullin/Sublime-CSS3
