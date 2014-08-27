@@ -3,7 +3,7 @@
 My personal Sublim Text 2 settings
 
 ##Preferences.sublime-settings
-
+'''
 {
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"copy_with_empty_selection": false,
@@ -18,7 +18,7 @@ My personal Sublim Text 2 settings
 	"theme": "predawn.sublime-theme",
 	"word_wrap": true
 }
-
+'''
 ##Pakages
 
 - Theme : https://github.com/jamiewilson/predawn
