@@ -25,5 +25,6 @@ My personal Sublim Text 2 settings
 
 ##Pakages
 
+- [Pakage Control](https://sublime.wbond.net/installation)
 - [Predawn Theme](https://github.com/jamiewilson/predawn)
 - [CSS3 Syntax](https://github.com/i-akhmadullin/Sublime-CSS3)
