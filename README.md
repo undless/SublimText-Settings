@@ -1,8 +1,6 @@
-#SublimText2-Settings
+#SublimText-Settings
 
-My personal Sublim Text 2 settings
-
-
+My personal Sublim Text settings
 
 ##Preferences.sublime-settings
 
@@ -21,6 +19,10 @@ My personal Sublim Text 2 settings
 	"theme": "predawn.sublime-theme",
 	"word_wrap": true
 }
+```
+FOR ALL DEV BUILDS 3062+ (Sublim Text 3) use,
+```
+"theme": "predawn-DEV.sublime-theme"
 ```
 
 ##Pakages
