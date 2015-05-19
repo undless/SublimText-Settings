@@ -9,7 +9,7 @@ My personal Sublim Text settings
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"copy_with_empty_selection": false,
 	"enable_tab_scrolling": false,
-	"font_size": 10,
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"Vintage"
