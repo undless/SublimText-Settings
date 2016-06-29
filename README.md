@@ -19,7 +19,7 @@ My personal Sublim Text settings
 	"theme": "predawn.sublime-theme",
 	"word_wrap": true,
 	"ha_style": "none",
-    	"ha_icons": true
+	"ha_icons": true
 }
 ```
 FOR ALL DEV BUILDS 3062+ (Sublim Text 3) use,
