@@ -17,11 +17,18 @@ My personal Sublim Text settings
 	"sidebar_xsmall": true,
 	"tabs_medium": true,
 	"theme": "predawn.sublime-theme",
-	"word_wrap": true,
+	"word_wrap": true
+}
+```
+##Preferences.color-Highligther-user-settings
+
+```
+{
 	"ha_style": "none",
 	"ha_icons": true
 }
 ```
+
 FOR ALL DEV BUILDS 3062+ (Sublim Text 3) use,
 ```
 "theme": "predawn-DEV.sublime-theme"
