@@ -20,6 +20,11 @@ My personal Sublim Text settings
 	"word_wrap": true
 }
 ```
+FOR ALL DEV BUILDS 3062+ (Sublim Text 3) use,
+```
+"theme": "predawn-DEV.sublime-theme"
+```
+
 ##Preferences.color-Highligther-user-settings
 
 ```
@@ -29,10 +34,6 @@ My personal Sublim Text settings
 }
 ```
 
-FOR ALL DEV BUILDS 3062+ (Sublim Text 3) use,
-```
-"theme": "predawn-DEV.sublime-theme"
-```
 
 ##Pakages
 
